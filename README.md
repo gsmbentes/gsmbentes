@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I'm walking in python and MYSQL
+- 🔭 I'm walking in python,golang and PostgreSQL
 - 🌱 Hi my name is Gustavo
 - 💬 I seek evolution in my software journey
 - ⚡ Fun fact: programming while listening to music is great
