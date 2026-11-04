@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm GUSTAVO</h1>
+<h1 align="center">Konnichiwa watashi wa Gustavo desu</h1>
 
 <p align="center">Developer from Brazil 🇧🇷</p>
 
